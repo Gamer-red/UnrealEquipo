@@ -1,0 +1,82 @@
+# Unreal Engine base template from Toptal + improvements
+
+### Unreal Engine ###
+# IDE / Editor
+.vs/
+.vscode/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+
+# Project / IDE files
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Precompiled Assets
+SourceArt/**/*.png
+SourceArt/**/*.tga
+
+# Binaries
+Binaries/*
+Plugins/*/Binaries/*
+
+# Builds
+Build/*
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+!Build/**/*.ico
+
+# Map built data
+*_BuiltData.uasset
+
+# Editor-generated configuration
+Saved/*
+Intermediate/*
+DerivedDataCache/*
+Plugins/*/Intermediate/*
+Plugins/**/Binaries/*
+Plugins/**/Intermediate/*
+
+# Logs, backups and temp files
+*.log
+*.tmp
+*.bak
+*.backup
+
+# Ignore generated data
+Script/NativizedAssets/
+Content/Collections/
+Content/__ExternalActors__/
+
+# End
