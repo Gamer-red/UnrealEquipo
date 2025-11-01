@@ -57,8 +57,7 @@ Build/*/**
 !Build/*/PakBlacklist*.txt
 !Build/**/*.ico
 
-# Map built data
-*_BuiltData.uasset
+
 
 # Editor-generated configuration
 Saved/*
