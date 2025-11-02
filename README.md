@@ -5,3 +5,5 @@ P Pantalla de pausa
 I Inventario
 
 Movimiento (teclas por defecto) A-W-S-D
+
+En el video se puede observar que con ests mismos botones se realizan las acciones previamente mencionadas.
